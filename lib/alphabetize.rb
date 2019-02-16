@@ -1,5 +1,16 @@
 require 'pry'
 
+<<<<<<< HEAD
+=======
+=begin
+  1. iterate through array
+  2. if finalArr is empty, push into finalArr
+  3. if not empty, iterate through finalArr
+  4. check the first letter, if they arent the same index, 
+  
+=end
+
+>>>>>>> fce56fab0fb6c644cd7354ba403ceb1548e50c0b
 def alphabetize(arr)
   finalHash = {} 
   tempArr = []
